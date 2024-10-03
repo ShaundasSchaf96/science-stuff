@@ -1,1 +1,1 @@
-this is a repo with some science stuff in python
+This is a repo with some scientific problems solved with Python.
